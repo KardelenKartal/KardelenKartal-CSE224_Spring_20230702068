@@ -1,0 +1,15 @@
+# Ignore OpenLane run artifacts
+runs/
+__pycache__/
+*.log
+*.rpt
+*.sdf
+*.vcd
+*.tmp
+*.bak
+*.save
+
+# Ignore backup files and editor leftovers
+*~
+*.swp
+*.swo
